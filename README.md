@@ -20,3 +20,26 @@
 
 ![image](https://user-images.githubusercontent.com/55133414/235340365-0b2e3507-5481-4c78-8ed0-5e43c68ce848.png)
 
+## Radio Transmitter
+- An LC tank circuit of resonant frequency 73.4 MHz
+**Figure 2: Radio Transmitter**
+
+![image](https://user-images.githubusercontent.com/55133414/235340538-40f0e68d-c498-4073-96c4-f0388ce9e1cf.png)
+
+
+## Tech Stack Used
+- LC Oscillator
+- PCB Design
+- Dictionaries
+- NMEA parsing
+- PWM control
+- RTOS
+
+## Prototype
+
+**Figure 3: Protype**
+![image](https://user-images.githubusercontent.com/55133414/235340482-9f422210-1cf3-46b1-9195-1fd4bb7a3fed.png)
+
+
+
+
