@@ -7,3 +7,11 @@
 - The OLED display can display the Morse Code translated messages.
 - Saviour is a valuable tool for travelers, hikers, and adventurers who may find themselves in remote areas without network coverage.
 - It can also serve as an educational tool for those who wish to learn Morse Code.
+
+## Design Prototype
+- User selects the Mode between transmit a String or Location, by rotating a potentiometer.
+- An OLED act as a screen for the user to display all the events.
+- To send a String, User needs to scroll through the Alphabets and construct the string and then transmit.
+- The Location is acquired by the GPS module
+- The program inside the µC translates the String into Equivalent Morse Code and make it a digital ON and OFF signal sequence with varying pitch to denote the Dit and Dah
+- The translated Digital Signal is then fed to the FM transmitter for transmission on Open Air at a frequency of 73.4MHz
