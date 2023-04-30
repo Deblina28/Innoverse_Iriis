@@ -57,13 +57,7 @@ void loop()
      
   }
       
-    
-    
-
   selectMenu();
-
-    
-  
 }
 
 
@@ -88,31 +82,15 @@ if(lch!=ch)
    u8x8.setCursor(3,6);
    u8x8.print("-.-.-.-");
   }
-
-  else if(ch==2)
-  {
-   u8x8.clearDisplay();
-   u8x8.setCursor(4,3);
-   u8x8.print("Compass");
-  }
-
+  
   else if(ch==1)
   {
    u8x8.clearDisplay();
    u8x8.setCursor(4,3);
    u8x8.print("GPS");
-  }
-
-  else if(ch==3)
-  {
-   u8x8.clearDisplay();
-   u8x8.setCursor(4,3);
-   u8x8.print("Altitude");
-  }
-  
+  } 
   lch=ch;
 }
-
 
 if(digitalRead(6)==1)
 {
@@ -121,12 +99,8 @@ if(digitalRead(6)==1)
   delay(100);  
 }
 
-
 out=millis();
 }
-
-
-
 
 boolean Morse()
 {
