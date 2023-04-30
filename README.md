@@ -15,3 +15,6 @@
 - The Location is acquired by the GPS module
 - The program inside the µC translates the String into Equivalent Morse Code and make it a digital ON and OFF signal sequence with varying pitch to denote the Dit and Dah
 - The translated Digital Signal is then fed to the FM transmitter for transmission on Open Air at a frequency of 73.4MHz
+**Figure 1: Block Diagram of Savior**
+![image](https://user-images.githubusercontent.com/55133414/235340365-0b2e3507-5481-4c78-8ed0-5e43c68ce848.png)
+
