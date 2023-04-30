@@ -24,8 +24,7 @@
 - An LC tank circuit of resonant frequency 73.4 MHz
 **Figure 2: Radio Transmitter**
 
-![image](https://user-images.githubusercontent.com/55133414/235340538-40f0e68d-c498-4073-96c4-f0388ce9e1cf.png)
-
+![image](https://user-images.githubusercontent.com/55133414/235340670-c8a009ee-4f9b-4d41-a396-a4fee574a55d.png)
 
 ## Tech Stack Used
 - LC Oscillator
